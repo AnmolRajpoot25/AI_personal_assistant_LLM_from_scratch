@@ -1,27 +1,8 @@
-# Virtual environments
 .venv/
-.venv1/
-env/
 
-# Python cache
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-
-# Model weights
 *.pt
 *.pth
-*.ckpt
 *.bin
-*.safetensors
 
-# Large data
-data/
-datasets/
 
-# Allow small CSV samples explicitly
-!data/sample.csv
 
-# OS
-.DS_Store
-Thumbs.db
