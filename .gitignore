@@ -1,0 +1,27 @@
+# virtual environments
+.venv/
+venv/
+
+# model weights
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.ckpt.*
+*.onnx
+
+# datasets
+*.zip
+*.tar
+*.tar.gz
+*.csv
+*.parquet
+
+# model folders
+gpt2/
+models/
+checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
