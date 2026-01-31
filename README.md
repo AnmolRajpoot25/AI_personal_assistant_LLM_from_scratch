@@ -164,33 +164,55 @@ Pretraining builds language understanding, while fine-tuning adapts the model to
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
+---
+Programming Language
 
-### 🐍 Python
-Core language for implementing LLM logic and training workflows.
 
-<img src="https://img.icons8.com/color/48/python--v1.png"/>
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/> </p>
+---
+---
+
+📓 Development & Experimentation — Jupyter Notebook
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+---
+---
+
+🔥 Deep Learning Framework — PyTorch
+
+<p align="left"> <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width="120" alt="PyTorch"/> </p>
+---
+---
+
+🔢 Numerical Computing — NumPy
+
+<p align="left"> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="120" alt="NumPy"/> </p>
+---
 
 ---
 
-### 📓 Jupyter Notebook
-Interactive experimentation, visualization, and model development.
+🧮 Data Processing & Utilities — Scikit-learn
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" width="55"/>
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="120" alt="Scikit-learn"/> </p>
+
+---
+---
+
+📊 Visualization — Matplotlib
+
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" alt="Matplotlib"/> </p>
 
 ---
 
-### 🔥 PyTorch
-Used for tensor operations, neural networks, and training loops.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo_icon.svg/256px-Pytorch_logo_icon.svg.png" width="55"/>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ---
-
-### 📊 Matplotlib
-Visualization of training loss, accuracy, and model behavior.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Matplotlib_Logo.svg/1024px-Matplotlib_Logo.svg.png" width="65"/>
 
 ---
 
@@ -202,6 +224,8 @@ cd AI_personal_assistant_LLM_from_scratch
 pip install jupyter numpy pandas torch matplotlib scikit-learn
 jupyter notebook
 ```
+---
+
 📈 Key Learnings from This Project
 How LLMs tokenize and represent text
 
