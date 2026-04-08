@@ -1,0 +1,5 @@
+gpt2/
+*.ckpt
+*.data*
+*.index
+*.meta
