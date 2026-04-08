@@ -11,6 +11,7 @@
 This repository is a hands-on exploration of **Large Language Models (LLMs)** built from scratch. It covers the full pipeline — from **tokenization and attention mechanisms** to **GPT-style text generation, pretraining, fine-tuning**, and **live deployment** via FastAPI and ngrok.
 
 The project is designed for learners who want to move beyond black-box APIs and gain a **deep, practical understanding of how LLMs work internally**.
+LIVE LINK (works when the server is ready)  (https://unphilosophical-jeff-gracelike.ngrok-free.dev/)
 
 > 🟢 **Live Demo:** Fine-tuned GPT-2 Medium (355M) deployed as a public REST API + Chat UI on Google Colab with ngrok.
 
