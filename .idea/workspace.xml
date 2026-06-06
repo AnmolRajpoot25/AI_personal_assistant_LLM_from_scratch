@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2dd5fd7-ff2f-4c3f-8898-32b42c950398" name="Changes" comment="demo video readme push">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/GPT_implementation_from_scratch_to_generate_text.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/GPT_implementation_from_scratch_to_generate_text.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a2dd5fd7-ff2f-4c3f-8898-32b42c950398" name="Changes" comment="updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775688214597</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="updates">
+      <option name="closed" value="true" />
+      <created>1780774776138</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1780774776138</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +224,7 @@
     <MESSAGE value="readme push" />
     <MESSAGE value="folder restructure" />
     <MESSAGE value="demo video readme push" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo video readme push" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
 </project>
